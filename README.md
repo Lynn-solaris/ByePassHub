@@ -4,7 +4,7 @@
 This is a collection of links of proxies, games, privacy utilities, tools, AI, and apps.  <br>
 FYI: **"Proxies" = "Unblockers"** <br>
 > [!NOTE]
-> Last update: 4/12/26. 
+> Last update: 4/24/26. 
 > To find the latest links & tools & resources, go [here](https://github.com/wea-f/ByePassHub/blob/main/Other%20Ways%20to%20get%20Proxies%20.md). <br>
 > As of 4/12/26, this will not be actively maintained.
 
